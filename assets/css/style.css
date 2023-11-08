@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+body header h1 {
+  margin-top: 30vh;
+}
+body main {
+  margin-top: 5vh;
+}
+body main form input, body main form button {
+  padding: 5px;
+  margin: 8px;
+}
+body main p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  border-radius: 10px;
+  background-color: bisque;
+  width: 70%;
+  padding: 5px;
+  margin: 0 auto;
+  min-height: 4rem;
+  overflow-wrap: break-word;
+}
+
+/*# sourceMappingURL=style.css.map */
